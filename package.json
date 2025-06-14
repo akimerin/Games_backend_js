@@ -1,0 +1,24 @@
+{
+  "name": "games_backend_js",
+  "version": "1.0.0",
+  "description": " back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akimerin/Games_backend_js.git"
+  },
+  "author": "Anastasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akimerin/Games_backend_js/issues"
+  },
+  "homepage": "https://github.com/akimerin/Games_backend_js#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0"
+  }
+}
